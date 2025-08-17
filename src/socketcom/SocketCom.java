@@ -15,11 +15,7 @@ public class SocketCom {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("this is a try code for first commit");
         
-        
-        
-        //commit try
     }
     
 }
